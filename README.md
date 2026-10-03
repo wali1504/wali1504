@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Wali%20Ullah%20Siddique&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20AI%20%26%20Automation%20Engineer%20%7C%20Solutions%20Architect&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Wali%20Ullah%20Siddique&fontSize=46&fontColor=ffffff&fontAlignY=38" width="100%"/>
 
 <a href="https://github.com/wali1504">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=720&lines=Full+Stack+AI+%26+Automation+Engineer;Solutions+Architect+%7C+5%2B+Years+Experience;LLMs+%E2%80%A2+AI+Agents+%E2%80%A2+RAG+%E2%80%A2+Workflow+Automation;Turning+business+problems+into+scalable+systems" alt="Typing SVG" />
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Open%20To-Remote%20Projects-0A66C2?style=for-the-badge"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=wali1504&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=wali1504.wali1504" alt="profile views"/>
 
 </div>
 
